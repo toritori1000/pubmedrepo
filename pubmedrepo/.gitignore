@@ -1,0 +1,26 @@
+# general things to ignore
+build/
+dist/
+*.egg-info/
+*.egg
+*.py[cod]
+__pycache__/
+*.so
+*~
+
+# due to using tox and pytest
+.tox
+.cache
+
+# Vim
+.*.swo
+.*.swp
+.*.swm
+.*.swn
+
+# test coverage report
+htmlcov/
+coverage.xml
+.coverage
+
+
