@@ -23,4 +23,5 @@ htmlcov/
 coverage.xml
 .coverage
 
-
+# vscode
+.vscode/
